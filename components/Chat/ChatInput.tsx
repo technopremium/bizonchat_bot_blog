@@ -381,16 +381,16 @@ export const ChatInput = ({
       </div>
       <div className="px-3 pt-2 pb-3 text-center text-[12px] text-black/50 dark:text-white/50 md:px-4 md:pt-3 md:pb-6">
         <a
-          href="https://github.com/mckaywrigley/chatbot-ui"
+          href="https://bizon-tech.com"
           target="_blank"
           rel="noreferrer"
           className="underline"
         >
-          ChatBot UI
+          Bizonbot
         </a>
         .{' '}
         {t(
-          "Chatbot UI is an advanced chatbot kit for OpenAI's chat models aiming to mimic ChatGPT's interface and functionality.",
+          "Bizon bot to interact with different models. APIs on the cloud and local models",
         )}
       </div>
     </div>
